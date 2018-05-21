@@ -47,7 +47,7 @@
   "dependencies": {
     "async": "^1.3.0",
     "bitcoind-rpc": "^0.6.0",
-    "bitcore-lib-komodo": "git+ssh://git@github.com:supernetorg/bitcore-lib-komodo",
+    "bitcore-lib-komodo": "git+ssh://git@github.com:digital-assets-data/bitcore-lib-komodo",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
